@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 ###########################################################################
 # Originally written by: Paul Fryer, 2016
-# https://github.com/
+# https://github.com/paul30003/fr24mon/
 # License: GPL (>= 2.1) [http://www.gnu.org/licenses/gpl.html]
 ###########################################################################
 
@@ -22,7 +22,6 @@ then
 else
  status_msg="FR24FEED Stopped"
 fi
-
 
 # Get Pi Data
 
