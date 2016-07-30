@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 ###########################################################################
-# Originally written by: Paul Fryer, 2016
+# Originally written by: Paul, 2016
 # https://github.com/paul30003/fr24mon/
 # License: GPL (>= 2.1) [http://www.gnu.org/licenses/gpl.html]
 ###########################################################################
