@@ -7,8 +7,10 @@
 
 PIDFILE=/var/run/fr24feed.pid
 
+# Event trigger on IFTTT
 trigger="your ifttt trigger event name"
 
+# IFTTT Secret key
 secret="your ifttt secret key"
 
 
